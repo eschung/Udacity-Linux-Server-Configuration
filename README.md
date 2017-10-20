@@ -4,7 +4,7 @@
 2. Follow the instructions provided to SSH into your server.
 Save your key to a .pem file and then use it in the following to ssh.
 ```
-ssh -i ~/Downloads/LightsailDefaultPrivateKey-us-east-2.pem grader@13.58.211.203
+ssh -i ~/Downloads/LightsailDefaultPrivateKey-us-east-2.pem grader@18.221.7.66
 ```
 # Secure your server.
 
